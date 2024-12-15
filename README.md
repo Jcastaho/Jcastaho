@@ -14,22 +14,21 @@
 
 <br><br>
 
-## Proyectos *bombitas*
+## Mejores Proyectos 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Motos</h3>
+<h3 align="center">Mi Moto Ideal</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://ibb.co/q5sJYtK" width="400" alt=""></a>
+<a href="https://imgbb.com/">
+  <img src="https://i.ibb.co/jRMJkcm/Captura-de-pantalla-2024-12-15-164352.png" alt="AppMotos" style="width: 200px; height: auto;" />
+</a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/Jcastaho/AppMotosKotlin" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="">
-</a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>textoo</p>
 </div>
 
 </td>
@@ -38,11 +37,11 @@
                <br>
 <h3 align="center">Motos</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="" width="400" alt=""></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://ibb.co/q5sJYtK" width="400" alt="https://ibb.co/q5sJYtK"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="">
+<img src="https://ibb.co/q5sJYtK">
 </a>
 <a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
 <img src="">
