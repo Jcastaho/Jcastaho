@@ -15,6 +15,8 @@
 <br><br>
 
 ## Mejores Proyectos 
+
+
 <table>
 <tr>
 <td width="50%">
@@ -28,28 +30,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>textoo</p>
-</div>
-
-</td>
-
-<td width="50%">
-               <br>
-<h3 align="center">Motos</h3>
-<div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://ibb.co/q5sJYtK" width="400" alt="https://ibb.co/q5sJYtK"></a>
-<br>
-<p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://ibb.co/q5sJYtK">
-</a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="">
-</a>
-</p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
-</div>                                                             
-</table>                                                                                 
+<p>App movil para visualizar, comparar y recomendar motocicletas en Colombia</p>
 </div>
 <br>
 
