@@ -13,7 +13,13 @@
   <br>
   <p> Tecnólogo en Desarrollo de Software</p>
   <br>
-    <p>Soy desarrollador full-stack Android con sólidos conocimientos en el diseño y desarrollo de aplicaciones robustas y escalables. Con una sólida base en programación orientada a objetos y bases de datos relacionales (PostgreSQL, SQL Server, SQLite) y NoSQL (Firebase), he construido aplicaciones de escritorio y móviles utilizando tecnologías como Java, Kotlin, C#. Trabajo bien tanto de forma autónoma como en equipo y aprendo con facilidad, me apasiona el mundo del desarrollo móvil, lo cual me motiva a estar al día con las últimas tecnologías y a crear aplicaciones innovadoras y útiles.</p>
+    <p>Soy un desarrollador multiplataforma, me gusta trabajar especialmente con Kotlin y Jetpack Compose, disfruto crear aplicaciones que no solo funcionen bien, sino que también sean intuitivas y agradables para las personas que las usan.
+      </p>
+   <p> Estoy en constante aprendizaje y siempre busco maneras de crecer, ya sea explorando nuevas tecnologías o enfrentando retos que me saquen de mi zona de confort. Para mí, programar no es solo escribir código, es una forma de construir ideas y convertirlas en algo real que pueda ayudar o inspirar a otros.</p>
+    <br>
+    <br>
+  <p>PORTAFOLIO WEB:</p>
+    <p>https://jcastaho.github.io/PortafolioPersonal/</p>
 </div>
 
 <br>
