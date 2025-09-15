@@ -13,9 +13,9 @@
   <br>
   <p> Tecnólogo en Desarrollo de Software</p>
   <br>
-    <p>Soy un desarrollador multiplataforma, me gusta trabajar especialmente con Kotlin y Jetpack Compose, disfruto crear aplicaciones que no solo funcionen bien, sino que también sean intuitivas y agradables para las personas que las usan.
+    <p> Soy un desarrollador de software multiplataforma, apasionado por la creación de aplicaciones intuitivas y agradables, ya sea web, móvil o de escritorio. Tengo experiencia práctica con Kotlin, Jetpack Compose, Flutter, Java, C#, JavaScript, React, HTML, CSS y Node.js, y manejo bases de datos relacionales y NoSQL como SQL Server, SQLite, PostgreSQL y Firebase.
       </p>
-   <p> Estoy en constante aprendizaje y siempre busco maneras de crecer, ya sea explorando nuevas tecnologías o enfrentando retos que me saquen de mi zona de confort. Para mí, programar no es solo escribir código, es una forma de construir ideas y convertirlas en algo real que pueda ayudar o inspirar a otros.</p>
+   <p> Me encanta explorar nuevas tecnologías, trabajar con buenas prácticas como Clean Architecture y colaborar en equipos multidisciplinarios. Programar para mí es convertir ideas en soluciones reales que puedan mejorar la vida de otros.</p>
     <br>
     <br>
   <p>PORTAFOLIO WEB:</p>
@@ -27,12 +27,14 @@
 # 💻 Soy bueno en:
 <div align="center">
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
@@ -61,7 +63,8 @@
       <h3 align="center">Mi Moto Ideal Java</h3>
       <div align="center">
         <a href="https://imgbb.com/">
-             <img src="https://i.ibb.co/NxcwtfJ/motos-Java.png" alt="motos-Java" border="0" style="width: 200px; height: auto;" />
+          <img src="https://i.ibb.co/qYWNSTGK/mi-Moto-Java.webp" alt="mi-Moto-Java" border="0" style="width: 200px; height: auto;" />
+             <img src="https://i.ibb.co/NxcwtfJ/motos-Java.png" 
         </a>
         <p>
           <a href="https://github.com/Jcastaho/AppMotosKotlin" target="_blank">
