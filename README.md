@@ -47,7 +47,7 @@
       <h3 align="center">Mi Moto Ideal Kotlin</h3>
       <div align="center">
         <a href="https://imgbb.com/">
-          <img src="https://i.ibb.co/jkvwJhNL/mi-Moto-Foto.jpg" alt="mi-Moto-Foto" style="width: 200px; height: auto;" />
+          <img src="https://i.ibb.co/xKfg4Fgt/mi-Moto-Foto.webp" alt="mi-Moto-Foto" border="0" style="width: 200px; height: auto;" />
         </a>
         <p>
           <a href="https://github.com/Jcastaho/AppMotosKotlin" target="_blank">
