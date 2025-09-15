@@ -47,7 +47,7 @@
       <h3 align="center">Mi Moto Ideal Kotlin</h3>
       <div align="center">
         <a href="https://imgbb.com/">
-          <img src="https://i.ibb.co/jRMJkcm/Captura-de-pantalla-2024-12-15-164352.png" alt="AppMotos" style="width: 200px; height: auto;" />
+          <img src="https://drive.google.com/file/d/17t1gcdRO6-mbj357IlW2Cc7ldBr8KTcA/view" alt="AppMotos" style="width: 200px; height: auto;" />
         </a>
         <p>
           <a href="https://github.com/Jcastaho/AppMotosKotlin" target="_blank">
